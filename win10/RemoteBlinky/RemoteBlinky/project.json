@@ -1,7 +1,8 @@
 ﻿{
   "dependencies": {
     "Microsoft.ApplicationInsights": "1.1.0",
-    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
+    "Remote-Wiring": "10.0.10240"
   },
   "frameworks": {
     "uap10.0": {}
